@@ -1,0 +1,6 @@
+[package]
+name = "arch-pkg-cleaner"
+version = "0.1.0"
+edition = "2021"
+authors = ["Adnand Basumatari <adnandbasumatary19@gmail.com>"]
+license = "MIT"
